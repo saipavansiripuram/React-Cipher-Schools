@@ -1,1 +1,1 @@
-# zomato-clone
+# React Practice
