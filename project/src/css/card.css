@@ -1,0 +1,22 @@
+/* *{
+    border: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: black;
+    
+} */
+img{
+    width: 300px;
+    height:400px;
+    
+}
+
+.TitleName{
+    
+    /* text-align: center; */
+    color: rgb(204, 53, 53);
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

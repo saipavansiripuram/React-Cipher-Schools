@@ -1,0 +1,35 @@
+.back{
+    background-color: black;
+    padding: 70px;
+}
+div{
+    display: grid;
+    gap: 20px;
+    /* padding: 30px; */
+}
+.photo{
+    grid-column : 1;
+    grid-row:1/span 3;
+    height: 400px;
+}   
+.h1{
+     grid-column:3;
+     grid-row: 1;
+    color: white;
+    }
+.h3{
+    grid-column:3;
+     grid-row: 2;
+     color: white;
+}
+p{
+    grid-column:3;
+     grid-row: 3;
+     color: white;
+}
+.rate{
+    color: white;    
+}
+.cast{
+    color: white;
+}
